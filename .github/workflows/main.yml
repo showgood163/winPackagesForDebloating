@@ -1,8 +1,7 @@
 name: Build CAB
 on:
-  push:
-    tags:
-      - '*'
+  # Keep manual trigger and push events
+  workflow_dispatch:
 
 env:
     SXSC_REPO: 'https://github.com/showgood163/sxsc'
