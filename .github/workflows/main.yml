@@ -5,7 +5,7 @@ on:
       - '*'
 
 env:
-    SXSC_REPO: 'https://github.com/melo936/sxsc'
+    SXSC_REPO: 'https://github.com/showgood163/sxsc'
 
 jobs: 
   build:
