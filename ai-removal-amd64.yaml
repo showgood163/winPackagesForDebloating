@@ -24,12 +24,12 @@ updates:
   - target_component: Microsoft-Copilot
     target_arch: amd64
     version: 38655.38527.65535.65535
-  # - target_component: Microsoft-Copilot-Deployment
-  #   target_arch: amd64
-  #   version: 38655.38527.65535.65535
-  # - target_component: Microsoft-Copilot-Deployment-LanguagePack
-  #   target_arch: amd64
-  #   version: 38655.38527.65535.65535
+  - target_component: Microsoft-Copilot-Deployment
+    target_arch: amd64
+    version: 38655.38527.65535.65535
+  - target_component: Microsoft-Copilot-Deployment-LanguagePack
+    target_arch: amd64
+    version: 38655.38527.65535.65535
   # - target_component: Microsoft-Windows-SystemSettings-SettingsHandlers-Copilot
   #   target_arch: amd64
   #   version: 38655.38527.65535.65535
